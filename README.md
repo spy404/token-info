@@ -1,5 +1,5 @@
 <h1 align="center">
-  Unban all
+  Token info
 </h1>
 
 Steps to install:
